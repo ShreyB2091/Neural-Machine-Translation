@@ -6,4 +6,5 @@ The documentation of this project will be updated here shortly.
 ### Week 1:
 - Literature Review  Reading articles and going through papers and tutorials about the implementation of Seq2Seq LSTM models.
 ### Week 2: Dataset and Model implementation  
-- Looked for the dataset and implemented and trained the model on the it.
+- Looked for the dataset of appropriate size, to provide enough variety, for the training of the model.
+- And implemented and trained the model on the data.
